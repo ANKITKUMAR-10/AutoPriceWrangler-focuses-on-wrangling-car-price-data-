@@ -1,4 +1,4 @@
-# 🚗 Auto Price Wrangling
+# 🚗 Auto Car Price data science project 
 
 A data wrangling and analysis project focused on cleaning, transforming, and exploring used car pricing data to uncover trends and insights.
 
@@ -25,3 +25,18 @@ The goal is to:
 | **Jupyter Notebook** | Interactive environment for analysis |
 
 
+🚗 Exploratory Data Analysis (EDA)
+🎯 Objectives
+
+🔍 Explore the key features and characteristics that influence the price of cars.
+
+📊 Analyze patterns and perform descriptive statistical analysis to uncover insights.
+
+🧩 Group and segment the data based on relevant parameters using pivot tables.
+
+💡 Identify relationships between independent variables (such as engine type, fuel, mileage, etc.) and the car’s price.
+
+📘 Overview
+
+This project focuses on understanding car price behavior through data-driven insights.
+By combining data cleaning, statistical summaries, and visual exploration, it aims to reveal how various attributes impact the overall car pricing strategy.
